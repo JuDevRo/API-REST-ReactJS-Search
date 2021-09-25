@@ -1,6 +1,11 @@
 # Qué es el proyecto?
 En este proyecto realizo una peticion REST a una API e implemento una barra de busqueda para filtrar los datos 
 
+# Comandos utilizados
+npx create-react-app
+npm i axios bootstrap
+npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

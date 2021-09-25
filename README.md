@@ -1,3 +1,6 @@
+# Qué es el proyecto?
+En este proyecto realizo una peticion REST a una API e implemento una barra de busqueda para filtrar los datos 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
